@@ -1,0 +1,4 @@
+train: ../train_images
+val: ../train_images
+nc: 8
+names: ['binh_thuong','sau_rang','nut_mon_rang','rang_khon_moc_lech','rang_gia','rang_khong_deu','rang_thua','mat_rang']
